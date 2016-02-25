@@ -1,0 +1,36 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>inphap</groupId>
+  <artifactId>inphap</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.jtattoo</groupId>
+  		<artifactId>JTattoo-1.6.10.jar</artifactId>
+  		<version>0</version>
+  		<scope>system</scope>
+  		<systemPath>${project.basedir}/HaplotypeViewer/libraries/JTattoo-1.6.10.jar</systemPath>
+  	</dependency>
+  	<dependency>
+  		<groupId>com.itextpdf</groupId>
+  		<artifactId>itextpdf</artifactId>
+  		<version>5.1.0</version>
+  		<scope>system</scope>
+  		<systemPath>${project.basedir}/HaplotypeViewer/libraries/lib-itext-0.jar</systemPath>
+  	</dependency>
+  	<dependency>
+  		<groupId>batik</groupId>
+  		<artifactId>batik</artifactId>
+  		<version>1.1.1</version>
+  		<systemPath>${project.basedir}/HaplotypeViewer/libraries/lib-batik-0.jar</systemPath>
+  		<scope>system</scope>
+  	</dependency>
+  	<dependency>
+  		<groupId>com.itextpdf</groupId>
+  		<artifactId>JTattooDemo.jar</artifactId>
+  		<version>0</version>
+  		<scope>system</scope>
+  		<systemPath>${project.basedir}/HaplotypeViewer/libraries/JTattooDemo.jar</systemPath>
+  	</dependency>
+  </dependencies>
+</project>

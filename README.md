@@ -15,3 +15,16 @@ Examples and some test data:
 
 http://it.inf.uni-tuebingen.de/?page_id=193
 
+
+
+Some components / libraries have different licence models, please make sure that you obey these as well, when using the method/tool.
+
+
+JTattoo: http://www.jtattoo.net/License.html
+lib-batik: https://xmlgraphics.apache.org/batik/
+lib-itext: http://itextpdf.com/
+
+
+We are welcoming any pull requests / tickets to improve the tool and method at any given time. Feel free to contact us!
+
+Current maintainer: Alexander Peltzer< alexander DOT peltzer AT uni-tuebingen DOT de> 

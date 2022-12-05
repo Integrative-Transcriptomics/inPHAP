@@ -27,4 +27,4 @@ lib-itext: http://itextpdf.com/
 
 We are welcoming any pull requests / tickets to improve the tool and method at any given time. Feel free to contact us!
 
-Current maintainer: Alexander Peltzer< alexander DOT peltzer AT uni-tuebingen DOT de> 
+Current maintainer: Kay Nieselt< kay DOT nieselt AT uni-tuebingen DOT de> 

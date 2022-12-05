@@ -13,7 +13,7 @@ https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-200
 
 Examples and some test data:
 
-http://it.inf.uni-tuebingen.de/?page_id=193
+https://uni-tuebingen.de/de/156765
 
 
 
